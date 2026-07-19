@@ -44,3 +44,4 @@ tqdm==4.69.0
 typer==0.27.0
 typing-inspection==0.4.2
 typing_extensions==4.16.0
+youtube-transcript-api==1.2.4
